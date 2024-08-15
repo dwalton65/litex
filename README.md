@@ -1,4 +1,4 @@
-Repo Freeze
+Repo Freeze for the DBS Validator
 
 <p align="center"><img src="https://raw.githubusercontent.com/enjoy-digital/litex/master/doc/litex.png"></p>
 
